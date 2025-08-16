@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto
+# Amigo Secreto
 
 Este proyecto forma parte del **Challenge "Amigo Secreto"** del programa **ONE (Oracle Next Education)** en colaboración con **Alura Latam**.
 
