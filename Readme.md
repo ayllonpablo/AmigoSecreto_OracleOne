@@ -33,8 +33,8 @@ La aplicación permite a los usuarios ingresar nombres de amigos en una lista y 
 
 2. Accede a la carpeta del proyecto:
 
-```bash
-cd AmigoSecreto_OracleOne
+   ```bash
+   cd AmigoSecreto_OracleOne
 
 3. Abre el archivo `index.html` en tu navegador.
 
@@ -48,9 +48,9 @@ O si prefieres, accede directamente a la versión en línea:
 
 ## 📷 Vista previa
 
-_(Agrega aquí una captura de pantalla de la aplicación mostrando la lista y el resultado del sorteo.)_
-
+<img width="881" height="667" alt="image" src="https://github.com/user-attachments/assets/ea9a7b30-8c3e-41ad-b0f3-c7810b31e28f" />
 ---
+
 
 ## 📚 Sobre el challenge
 
